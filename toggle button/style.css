@@ -1,0 +1,21 @@
+*{
+    font-size: 1.5rem;
+    text-align: center;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/* give me some animation for btn when it is clicked */
+
+#btn {
+    padding: 10px 20px;
+    background-color: #bb6a38;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#btn:hover {
+    background-color: #bb6a38;
+}
+
